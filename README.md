@@ -11,3 +11,6 @@ Control :
 Fitur Tambahan:
 1. Tower tidak dapat ditambahkan kembali saat tower telah menempati tempat tower (Tidak dapat double tower ditempat yang sama).
 2. Terdapat restart game saat game berakhir dengan cara tap layar.
+
+BUILD BERADA DI REALESE
+https://github.com/SawitriFK/Tower-Defense/releases/tag/v1.0
